@@ -15,6 +15,11 @@ Here's the first attempt at that.
 <li>Analytics code baked in for Google, Chartbeat and Omniture</li>
 </ol>
 
+Custom styling
+--------------
+
+Want to add you own styles? There's a line in the head to define your custom CSS file. ** Don't mess with the original Boostrap files in the Dataomaha.com media folder. **
+
 Available extras
 ----------------
 
