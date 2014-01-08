@@ -9,3 +9,10 @@ Here's the first attempt at that.
 <li>Basic navbar at the top with the Omaha.com logo</li>
 <li>Analytics code baked in for Google, Chartbeat and Omniture</li>
 </ol>
+Available extras
+====
+Copy these files into your project if you're just looking for tracking.
+<ol>
+<li>Google analytics</li>
+<li>Chartbeat</li>
+</ol>
