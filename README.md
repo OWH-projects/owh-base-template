@@ -1,6 +1,5 @@
--Dataomaha.com base template
-
- ===========================
+Dataomaha.com base template
+===========================
   
 We've reached the point where a handful of people are developing projects on Dataomaha.com. 
 
