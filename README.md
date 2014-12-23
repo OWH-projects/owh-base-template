@@ -24,8 +24,9 @@ Want to add you own styles? There's a line in the head to define your custom CSS
 Available extras
 -----------------
 
-Copy these files into your existing project if you're just looking for tracking.
+Copy these files into your existing project if you're just looking for a code snipped.
 <ol>
 <li>Google Analytics</li>
 <li>Chartbeat</li>
+<li>Simple Facebook share dialog</li>
 </ol>
