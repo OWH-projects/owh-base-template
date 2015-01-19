@@ -1,0 +1,29 @@
+<! --
+More extensible popup share thing. (Just pass a URL to the function.)
+-->
+<a id="tw" class="social" href="#"><i class='fa fa-twitter'></i></a>&emsp;
+<a id="fb" class="social" href="#"><i class='fa fa-facebook-square'></i></a>
+
+<script>
+var twitter = "https://twitter.com/intent/tweet?text=" + encodeURIComponent("Here is your Twitter share message. " + window.location);
+var facebook = 'http://www.facebook.com/sharer.php?u=' + encodeURIComponent(window.location);
+
+var windopts = "toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=400,height=400";
+
+function social(url) {
+    var pop = window.open(url, '', windopts);
+    try {
+    pop.focus();   
+        }
+  catch (e) {
+    alert("Hey dude, you need to disable popup blocker if you want to share this page.");
+  }
+}
+
+$('.social').click(function() {
+    if ( this.id === "fb" )
+        { social(facebook) }
+    else if ( this.id === "tw" )
+        { social(twitter) }
+});
+</script>
