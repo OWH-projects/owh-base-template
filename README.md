@@ -27,6 +27,7 @@ Available extras
 Copy these files into your existing project if you're just looking for a code snipped.
 <ol>
 <li>Google Analytics</li>
+<li>Omniture tags for Omaha.com, Live Well Nebraska and NE Prep Zone</li>
 <li>Chartbeat</li>
 <li>Simple Facebook share dialog</li>
 </ol>
