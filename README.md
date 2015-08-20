@@ -19,7 +19,7 @@ Here's the first attempt at that.
 Custom styling
 ---------------
 
-Want to add your own styles? There's a line in the head to define your custom CSS file. ** Don't mess with the original Boostrap files in the Dataomaha.com media folder. **
+Want to add your own styles? There's a line in the head to define your custom CSS file. ** Don't mess with the original Boostrap files in the Dataomaha.com media folder, please. **
 
 Available extras
 -----------------
