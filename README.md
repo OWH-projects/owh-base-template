@@ -10,10 +10,10 @@ Responsive, simple nav, common fonts. No hassle.
 Here's the first attempt at that.
 
 <ol>
-<li>Uses Bootstrap 3.2.0, hosted on dataomaha.com</li>
+<li>Uses Bootstrap 3.3.5</li>
 <li>Basic navbar at the top with the Omaha.com logo</li>
 <li>Analytics code baked in for Google, Chartbeat and Omniture</li>
-<li>Need some icons? Font Awesome and Ionicons 1.3.0 supported</li>
+<li>Need some icons? Font Awesome is included</li>
 </ol>
 
 Custom styling
