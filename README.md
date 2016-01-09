@@ -12,7 +12,7 @@ Here's the first attempt at that.
 <ol>
 <li>Uses Bootstrap 3.3.5</li>
 <li>Basic navbar at the top with the Omaha.com logo</li>
-<li>Analytics code baked in for Google, Chartbeat and Omniture</li>
+<li>Analytics code baked in for Google and Chartbeat</li>
 <li>Need some icons? Font Awesome is included</li>
 </ol>
 
